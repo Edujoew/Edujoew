@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Eddy;I+build+for+the+web" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=Founder+%40+EddyTech;Django+%2B+Python+Backend+Engineer;Self-Contained+Web+Apps%2C+Zero+Build+Steps;M-Pesa+%26+Daraja+API+Integrations;AI+Features+Powered+by+Claude" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=Founder+%40+EddyForge;Django+%2B+Python+Backend+Engineer;Self-Contained+Web+Apps%2C+Zero+Build+Steps;M-Pesa+%26+Daraja+API+Integrations;AI+Features+Powered+by+Claude" alt="Typing SVG" />
 
 <br>
 
