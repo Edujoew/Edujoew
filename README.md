@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=7000FF&center=true&vCenter=true&width=700&lines=InKash+%E2%80%94+Task-to-Earn+App+with+M-Pesa+Cashout;URBS+%E2%80%94+University+Resource+%26+Equipment+Booking;EddyTech+Client+Sites+%E2%80%94+Fast%2C+Clean%2C+No+Build+Step" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=7000FF&center=true&vCenter=true&width=700&lines=InKash+%E2%80%94+Task-to-Earn+App+with+M-Pesa+Cashout;URBS+%E2%80%94+University+Resource+%26+Equipment+Booking;EddyForge+Client+Sites+%E2%80%94+Fast%2C+Clean%2C+No+Build+Step" alt="Typing SVG" />
 
 </div>
 
