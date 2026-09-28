@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/EddyTech-Build_Your_Digital_Legacy-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EddyForge-Build_Your_Digital_Legacy-00D9FF?style=for-the-badge" />
 
 </div>
 
