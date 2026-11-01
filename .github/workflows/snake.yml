@@ -1,0 +1,40 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # rebuild every 12 hours
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+  push:
+    branches: [main, master]  # rebuild whenever the profile repo changes
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # Reads your contribution graph and turns it into a snake animation.
+      # First color in color_dots is "no contributions", then low to high (exactly 5).
+      - name: Build the snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#6C2BD9&color_dots=#ebedf0,#b8eaf5,#6fd3ea,#22b8d6,#0891b2
+            dist/github-snake-dark.svg?color_snake=#FF4B6E&color_dots=#161b22,#0b3a4a,#0a6a86,#00a6cc,#00d9ff
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Publishes the SVGs to an "output" branch so the README can load them from
+      # https://raw.githubusercontent.com/<you>/<repo>/output/<file>.svg
+      - name: Publish to the output branch
+        working-directory: dist
+        run: |
+          git init -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore: update contribution snake"
+          git push --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output
