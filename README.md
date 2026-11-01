@@ -1,5 +1,7 @@
 <!-- ───────────────────────────── HEADER ───────────────────────────── -->
 
+<a name="top"></a>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:00C9FF,50:6C2BD9,100:FF4B6E&text=Hey%2C%20I%27m%20Edwards%20John&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Web%20Developer%20%E2%80%A2%20Dev%20Eddy&descSize=28&descAlign=50&descAlignY=62&animation=twinkling&section=header" width="100%" alt="Hey, I'm Edwards John. Web Developer, Dev Eddy." />
@@ -13,7 +15,16 @@
 
 <img src="https://img.shields.io/badge/EddyForge-Build_Your_Digital_Legacy-6C2BD9?style=for-the-badge&labelColor=0D1117" alt="EddyForge: Build Your Digital Legacy" />
 <img src="https://img.shields.io/badge/Based_in-Kenya_🇰🇪-00A651?style=for-the-badge&labelColor=0D1117" alt="Based in Kenya" />
-<img src="https://img.shields.io/badge/Open_to-Client_Work-FF4B6E?style=for-the-badge&labelColor=0D1117" alt="Open to client work" />
+<a href="https://wa.me/254100554588"><img src="https://img.shields.io/badge/Open_to-Client_Work-FF4B6E?style=for-the-badge&labelColor=0D1117" alt="Open to client work. Message me on WhatsApp." /></a>
+
+<br><br>
+
+<a href="#whoami"><img src="https://img.shields.io/badge/whoami-6C2BD9?style=flat-square" alt="whoami" /></a>
+<a href="#what-i-do"><img src="https://img.shields.io/badge/What_I_Do-6C2BD9?style=flat-square" alt="What I Do" /></a>
+<a href="#toolbox"><img src="https://img.shields.io/badge/Toolbox-6C2BD9?style=flat-square" alt="Toolbox" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-6C2BD9?style=flat-square" alt="Projects" /></a>
+<a href="#stats"><img src="https://img.shields.io/badge/Stats-6C2BD9?style=flat-square" alt="Stats" /></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-6C2BD9?style=flat-square" alt="Contact" /></a>
 
 </div>
 
@@ -21,7 +32,8 @@
 
 <!-- ───────────────────────────── WHOAMI ───────────────────────────── -->
 
-## 💻 whoami
+<a name="whoami"></a>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%F0%9F%92%BB+whoami" alt="whoami" /></h2>
 
 ```python
 class Eddy:
@@ -42,7 +54,8 @@ class Eddy:
 
 <!-- ───────────────────────────── WHAT I DO ───────────────────────────── -->
 
-## ⚡ What I Do
+<a name="what-i-do"></a>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%E2%9A%A1+What+I+Do" alt="What I Do" /></h2>
 
 <div align="center">
 <table>
@@ -73,7 +86,7 @@ class Eddy:
 
 <!-- ───────────────────────────── HOW I SHIP ───────────────────────────── -->
 
-## 🛠️ How I Ship
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%F0%9F%9B%A0+How+I+Ship" alt="How I Ship" /></h2>
 
 ```mermaid
 %%{init: {"theme": "base", "themeVariables": {"primaryColor": "#0D1117", "primaryTextColor": "#E6EDF3", "primaryBorderColor": "#00D9FF", "lineColor": "#6C2BD9", "fontFamily": "monospace"}}}%%
@@ -92,7 +105,8 @@ flowchart LR
 
 <!-- ───────────────────────────── TOOLBOX ───────────────────────────── -->
 
-## 🧰 Toolbox
+<a name="toolbox"></a>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%F0%9F%A7%B0+Toolbox" alt="Toolbox" /></h2>
 
 <div align="center">
 
@@ -128,20 +142,21 @@ flowchart LR
 
 <!-- ───────────────────────────── BUILDING ───────────────────────────── -->
 
-## 🏗️ Building Right Now
+<a name="projects"></a>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%F0%9F%8F%97+Building+Right+Now" alt="Building Right Now" /></h2>
 
 <div align="center">
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <h3>🦅 PLASTOUT</h3>
+      <h3><a href="https://github.com/Edujoew/green_eagles">🦅 PLASTOUT</a></h3>
       <p>Green Eagles Crew<br>Management Platform</p>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
       <img src="https://img.shields.io/badge/M--Pesa-Daraja-00A651?style=flat-square" alt="M-Pesa Daraja" />
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>📅 URBS</h3>
+      <h3><a href="https://github.com/Edujoew/University-Resource-Booking-System-URBS">📅 URBS</a></h3>
       <p>University Resource &amp;<br>Equipment Booking</p>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
@@ -161,7 +176,7 @@ flowchart LR
 
 <br>
 
-## 📌 Pinned Projects
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%F0%9F%93%8C+Pinned+Projects" alt="Pinned Projects" /></h2>
 
 <div align="center">
 <a href="https://github.com/Edujoew/green_eagles"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Edujoew&repo=green_eagles&theme=tokyonight&hide_border=true&show_owner=true" alt="PLASTOUT (green_eagles) repository card" /></a>
@@ -172,7 +187,8 @@ flowchart LR
 
 ### 🦅 [PLASTOUT →](https://github.com/Edujoew/green_eagles)
 
-**PLASTOUT** is a community-driven management platform and administrative system for the **Green Eagles Crew** and **Messengers of Peace**, designed to coordinate environmental initiatives, manage scouting patrols, and streamline membership operations.
+> [!NOTE]
+> **PLASTOUT** is a community-driven management platform and administrative system for the **Green Eagles Crew** and **Messengers of Peace**, designed to coordinate environmental initiatives, manage scouting patrols, and streamline membership operations.
 
 | Layer | Tools |
 |---|---|
@@ -195,7 +211,8 @@ flowchart LR
 
 <!-- ───────────────────────────── STATS ───────────────────────────── -->
 
-## 📊 GitHub Command Center
+<a name="stats"></a>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=600&height=50&lines=%F0%9F%93%8A+GitHub+Command+Center" alt="GitHub Command Center" /></h2>
 
 <div align="center">
 
@@ -223,6 +240,20 @@ flowchart LR
 
 <br><br>
 
+<img src="https://img.shields.io/badge/🐍_Contribution_Graph-00A651?style=for-the-badge&labelColor=0D1117" alt="Contribution graph" />
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edujoew/Edujoew/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edujoew/Edujoew/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Edujoew/Edujoew/output/github-snake-dark.svg" width="100%" alt="Snake eating through my GitHub contribution graph" />
+</picture>
+
+<sub>A Python snake eating my commits. Rebuilt from my contribution graph every 12 hours.</sub>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/🧬_Language_DNA-00A651?style=for-the-badge&labelColor=0D1117" alt="Language DNA" />
 
 <br>
@@ -240,27 +271,19 @@ flowchart LR
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edujoew&theme=tokyonight" width="49%" alt="Profile details" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Edujoew&theme=tokyonight&utcOffset=3" width="49%" alt="Most productive time of day (UTC+3)" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/📅_Contribution_Activity-FF4B6E?style=for-the-badge&labelColor=0D1117" alt="Contribution activity" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edujoew&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&color=00D9FF&line=6C2BD9&point=FF4B6E&area_color=6C2BD9&width=900&height=300" width="100%" alt="Edujoew contribution activity graph" />
-
 </div>
 
 <br>
 
 <!-- ───────────────────────────── CONTACT ───────────────────────────── -->
 
-## 📲 Let's Talk
+<a name="contact"></a>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%F0%9F%93%B2+Let%27s+Talk" alt="Let's Talk" /></h2>
+
+> [!TIP]
+> **Need a fast, clean site or a real M-Pesa integration? Let's build it.**
 
 <div align="center">
-
-<b>Need a fast, clean site or a real M-Pesa integration? Let's build it.</b>
-
-<br><br>
 
 <a href="https://linkedin.com/in/johnny-edwards-7b0795393/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://wa.me/254100554588"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
@@ -279,6 +302,10 @@ flowchart LR
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Edujoew&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br>
+
+<sub><a href="#top">Back to top</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=140&color=0:00C9FF,50:6C2BD9,100:FF4B6E&section=footer" width="100%" alt="" />
 
