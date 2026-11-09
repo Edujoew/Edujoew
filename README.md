@@ -1,95 +1,86 @@
-<!-- ───────────────────────────── HEADER ───────────────────────────── -->
-
 <a name="top"></a>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:00C9FF,50:6C2BD9,100:FF4B6E&text=Hey%2C%20I%27m%20Edwards%20John&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=Web%20Developer%20%E2%80%A2%20Dev%20Eddy&descSize=28&descAlign=50&descAlignY=62&animation=twinkling&section=header" width="100%" alt="Hey, I'm Edwards John. Web Developer, Dev Eddy." />
+<img src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:0D1117,35:6C2BD9,70:00C9FF,100:FF4B6E&text=%3CEddyForge%2F%3E&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&desc=Build%20Your%20Digital%20Legacy&descSize=20&descAlign=50&descAlignY=68&section=header" width="100%" alt="EddyForge. Build Your Digital Legacy." />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%94%A5+Founder+%40+EddyForge;%F0%9F%90%8D+Django+%2B+Python+Backend+Engineer;%F0%9F%93%A6+Self-Contained+Web+Apps%2C+Zero+Build+Steps;%F0%9F%92%B3+M-Pesa+%26+Daraja+API+Integrations;%F0%9F%A4%96+AI+Features+Powered+by+Claude" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6C2BD9&center=true&vCenter=true&width=720&height=50&lines=%F0%9F%94%A5+Founder+%40+EddyForge;%F0%9F%90%8D+Django+%2B+Python+Backend+Engineer;%F0%9F%93%A6+Self-Contained+Web+Apps%2C+Zero+Build+Steps;%F0%9F%92%B3+M-Pesa+%26+Daraja+API+Integrations;%F0%9F%A4%96+AI+Features+Powered+by+Claude" alt="Founder @ EddyForge. Django + Python backend engineer. Self-contained web apps, zero build steps. M-Pesa & Daraja API integrations. AI features powered by Claude." />
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00C9FF&center=true&vCenter=true&width=780&height=45&lines=%24+whoami+%E2%86%92+Edwards+John+%E2%80%A2+Dev+Eddy;%24+role+%E2%86%92+Founder+%40+EddyForge;%24+stack+%E2%86%92+Python+%2B+Django+%2B+JS;%24+payments+%E2%86%92+M-Pesa+%2F+Daraja+API;%24+ai+%E2%86%92+Claude-powered+features;%24+status+%E2%86%92+open+to+client+work" alt="Edwards John, Dev Eddy. Founder at EddyForge. Python, Django and JavaScript. M-Pesa Daraja API. Claude-powered features. Open to client work." />
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/EddyForge-Build_Your_Digital_Legacy-6C2BD9?style=for-the-badge&labelColor=0D1117" alt="EddyForge: Build Your Digital Legacy" />
-<img src="https://img.shields.io/badge/Based_in-Kenya_🇰🇪-00A651?style=for-the-badge&labelColor=0D1117" alt="Based in Kenya" />
-<a href="https://wa.me/254100554588"><img src="https://img.shields.io/badge/Open_to-Client_Work-FF4B6E?style=for-the-badge&labelColor=0D1117" alt="Open to client work. Message me on WhatsApp." /></a>
-
-<br><br>
-
-<a href="#whoami"><img src="https://img.shields.io/badge/whoami-6C2BD9?style=flat-square" alt="whoami" /></a>
-<a href="#what-i-do"><img src="https://img.shields.io/badge/What_I_Do-6C2BD9?style=flat-square" alt="What I Do" /></a>
-<a href="#toolbox"><img src="https://img.shields.io/badge/Toolbox-6C2BD9?style=flat-square" alt="Toolbox" /></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-6C2BD9?style=flat-square" alt="Projects" /></a>
-<a href="#stats"><img src="https://img.shields.io/badge/Stats-6C2BD9?style=flat-square" alt="Stats" /></a>
-<a href="#contact"><img src="https://img.shields.io/badge/Contact-6C2BD9?style=flat-square" alt="Contact" /></a>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00C9FF?style=flat-square&labelColor=0D1117&logo=statuspage&logoColor=00C9FF" alt="Status online" />
+<img src="https://img.shields.io/badge/LOCATION-KENYA_🇰🇪-6C2BD9?style=flat-square&labelColor=0D1117" alt="Based in Kenya" />
+<img src="https://img.shields.io/badge/HANDLE-@Edujoew-FF4B6E?style=flat-square&labelColor=0D1117&logo=github" alt="GitHub handle Edujoew" />
+<a href="https://wa.me/254100554588"><img src="https://img.shields.io/badge/HIRE_ME-WhatsApp-25D366?style=flat-square&labelColor=0D1117&logo=whatsapp&logoColor=white" alt="Hire me on WhatsApp" /></a>
+<img src="https://komarev.com/ghpvc/?username=Edujoew&color=6C2BD9&style=flat-square&label=VIEWS&labelColor=0D1117" alt="Profile views" />
 
 </div>
 
 <br>
 
-<!-- ───────────────────────────── WHOAMI ───────────────────────────── -->
+## `$ ./boot.sh --profile edujoew`
 
-<a name="whoami"></a>
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%F0%9F%92%BB+whoami" alt="whoami" /></h2>
-
-```python
-class Eddy:
-    handle   = "@Edujoew"
-    role     = "Founder @ EddyForge"
-    stack    = ["Python", "Django", "HTML", "CSS", "JavaScript"]
-    approach = "Self-contained web apps, zero build steps"
-    payments = "M-Pesa & Safaricom Daraja API"
-    ai       = "Claude-powered features"
-    ships_to = "GitHub → Vercel"
-    learning = ["React", "Java", "PHP", "JavaScript", "Tailwind CSS"]
-
-    def mission(self):
-        return "Build Your Digital Legacy"
+```bash
+[  OK  ] Loading identity .............. Edwards John (Dev Eddy)
+[  OK  ] Mounting brand ................ EddyForge → "Build Your Digital Legacy"
+[  OK  ] Starting backend .............. Python · Django · PostgreSQL
+[  OK  ] Starting frontend ............. HTML · CSS · JavaScript · Bootstrap · Tailwind
+[  OK  ] Linking payments .............. M-Pesa STK Push · Safaricom Daraja API
+[  OK  ] Linking AI .................... Claude-powered chat & features
+[  OK  ] Deploy target ................. GitHub → Vercel
+[ WAIT ] Compiling new skills .......... React · Java · PHP · Tailwind CSS
+[  OK  ] Availability .................. open to client work
 ```
 
 <br>
 
-<!-- ───────────────────────────── WHAT I DO ───────────────────────────── -->
+## `$ cat about.json`
 
-<a name="what-i-do"></a>
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%E2%9A%A1+What+I+Do" alt="What I Do" /></h2>
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🚀 Fast Sites</h3>
-      <p>Shipping client sites that load fast and never break.</p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>💳 Real Payments</h3>
-      <p>Wiring up real <b>M-Pesa</b> payments for Kenyan users. 🇰🇪</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🤖 Claude Inside</h3>
-      <p>Dropping <b>Claude-powered chat</b> into plain HTML sites.</p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>📦 Straight to Prod</h3>
-      <p>Deploying straight from <b>GitHub to Vercel</b>.</p>
-    </td>
-  </tr>
-</table>
-</div>
+```json
+{
+  "handle": "@Edujoew",
+  "role": "Founder @ EddyForge",
+  "approach": "Self-contained web apps, zero build steps",
+  "stack": ["Python", "Django", "HTML", "CSS", "JavaScript"],
+  "payments": "M-Pesa & Safaricom Daraja API",
+  "ai": "Claude-powered features",
+  "ships_to": "GitHub → Vercel",
+  "learning": ["React", "Java", "PHP", "JavaScript", "Tailwind CSS"],
+  "mission": "Build Your Digital Legacy"
+}
+```
 
 <br>
 
-<!-- ───────────────────────────── HOW I SHIP ───────────────────────────── -->
+## `$ ls services/`
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%F0%9F%9B%A0+How+I+Ship" alt="How I Ship" /></h2>
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <img src="https://img.shields.io/badge/01-FAST_SITES-00C9FF?style=flat-square&labelColor=0D1117" alt="01 Fast sites" /><br><br>
+      Client sites that load fast and never break.
+    </td>
+    <td width="25%" valign="top">
+      <img src="https://img.shields.io/badge/02-M--PESA-00A651?style=flat-square&labelColor=0D1117" alt="02 M-Pesa" /><br><br>
+      Real <b>M-Pesa</b> payments for Kenyan users. 🇰🇪
+    </td>
+    <td width="25%" valign="top">
+      <img src="https://img.shields.io/badge/03-CLAUDE_AI-FF4B6E?style=flat-square&labelColor=0D1117" alt="03 Claude AI" /><br><br>
+      <b>Claude-powered chat</b> dropped into plain HTML sites.
+    </td>
+    <td width="25%" valign="top">
+      <img src="https://img.shields.io/badge/04-DEPLOY-6C2BD9?style=flat-square&labelColor=0D1117" alt="04 Deploy" /><br><br>
+      Straight from <b>GitHub to Vercel</b>.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## `$ pipeline --show`
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#0D1117", "primaryTextColor": "#E6EDF3", "primaryBorderColor": "#00D9FF", "lineColor": "#6C2BD9", "fontFamily": "monospace"}}}%%
+%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#0D1117", "primaryTextColor": "#E6EDF3", "primaryBorderColor": "#00C9FF", "lineColor": "#6C2BD9", "fontFamily": "monospace"}}}%%
 flowchart LR
     A(["💡 Idea"]) --> B["💻 Build<br/>Django · HTML · JS"]
     B --> C["🐙 GitHub"]
@@ -99,72 +90,54 @@ flowchart LR
     B -.-> G["🤖 Claude<br/>AI features"]
 ```
 
-<div align="center"><sub>Solid line: how code ships. Dotted: what I wire in.</sub></div>
-
 <br>
 
-<!-- ───────────────────────────── TOOLBOX ───────────────────────────── -->
-
-<a name="toolbox"></a>
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%F0%9F%A7%B0+Toolbox" alt="Toolbox" /></h2>
+## `$ npm ls --stack` &nbsp;<sub>(well, `pip freeze`)</sub>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Backend_%26_Data-6C2BD9?style=flat-square" alt="Backend and data" /><br>
-<img src="https://skillicons.dev/icons?i=py,django,sqlite,postgres,mysql,mariadb" alt="Python, Django, SQLite, PostgreSQL, MySQL, MariaDB" />
+| | |
+|:--|:--|
+| <img src="https://img.shields.io/badge/BACKEND-6C2BD9?style=flat-square&labelColor=0D1117" alt="Backend" /> | <img src="https://skillicons.dev/icons?i=py,django,sqlite,postgres,mysql,mariadb&theme=dark" alt="Python, Django, SQLite, PostgreSQL, MySQL, MariaDB" /> |
+| <img src="https://img.shields.io/badge/FRONTEND-00C9FF?style=flat-square&labelColor=0D1117" alt="Frontend" /> | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" alt="HTML, CSS, JavaScript, Bootstrap, Tailwind CSS" /> |
+| <img src="https://img.shields.io/badge/SHIP-FF4B6E?style=flat-square&labelColor=0D1117" alt="Ship" /> | <img src="https://skillicons.dev/icons?i=github,git,vercel&theme=dark" alt="GitHub, Git, Vercel" /> |
+| <img src="https://img.shields.io/badge/LEARNING-2EA043?style=flat-square&labelColor=0D1117" alt="Learning" /> | <img src="https://skillicons.dev/icons?i=react,java,php,js,tailwind&theme=dark" alt="React, Java, PHP, JavaScript, Tailwind CSS" /> |
 
-<br>
-
-<img src="https://img.shields.io/badge/Frontend-6C2BD9?style=flat-square" alt="Frontend" /><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" alt="HTML, CSS, JavaScript, Bootstrap, Tailwind CSS" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Ship-6C2BD9?style=flat-square" alt="Ship" /><br>
-<img src="https://skillicons.dev/icons?i=github,git,vercel" alt="GitHub, Git, Vercel" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Integrations-6C2BD9?style=flat-square" alt="Integrations" /><br>
-<img src="https://img.shields.io/badge/M--Pesa-STK_Push-00A651?style=for-the-badge" alt="M-Pesa STK Push" />
-<img src="https://img.shields.io/badge/Safaricom-Daraja_API-43B02A?style=for-the-badge" alt="Safaricom Daraja API" />
-<img src="https://img.shields.io/badge/Claude-AI_Features-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI features" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Currently_Learning-2EA043?style=flat-square" alt="Currently learning" /><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=700&color=2EA043&center=true&vCenter=true&width=650&height=40&lines=Learning%3A+React;Learning%3A+Java;Learning%3A+PHP;Learning%3A+JavaScript;Learning%3A+Tailwind+CSS" alt="Currently learning: React, Java, PHP, JavaScript, Tailwind CSS" /><br>
-<img src="https://skillicons.dev/icons?i=react,java,php,js,tailwind" alt="React, Java, PHP, JavaScript, Tailwind CSS" />
+<img src="https://img.shields.io/badge/M--Pesa-STK_Push-00A651?style=for-the-badge&labelColor=0D1117" alt="M-Pesa STK Push" />
+<img src="https://img.shields.io/badge/Safaricom-Daraja_API-43B02A?style=for-the-badge&labelColor=0D1117" alt="Safaricom Daraja API" />
+<img src="https://img.shields.io/badge/Claude-AI_Features-D97757?style=for-the-badge&labelColor=0D1117&logo=anthropic&logoColor=white" alt="Claude AI features" />
 
 </div>
 
 <br>
 
-<!-- ───────────────────────────── BUILDING ───────────────────────────── -->
+## `$ git log --projects`
 
-<a name="projects"></a>
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%F0%9F%8F%97+Building+Right+Now" alt="Building Right Now" /></h2>
-
-<div align="center">
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <h3><a href="https://github.com/Edujoew/green_eagles">🦅 PLASTOUT</a></h3>
-      <p>Green Eagles Crew<br>Management Platform</p>
+    <td width="50%" valign="top">
+      <h3>🦅 <a href="https://github.com/Edujoew/green_eagles">PLASTOUT</a> &nbsp;<img src="https://img.shields.io/badge/●_ACTIVE-00C9FF?style=flat-square&labelColor=0D1117" alt="Active" /></h3>
+      <p>Community-driven management platform and admin system for the <b>Green Eagles Crew</b> and <b>Messengers of Peace</b>. Coordinates environmental initiatives, scouting patrols and membership operations.</p>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
       <img src="https://img.shields.io/badge/M--Pesa-Daraja-00A651?style=flat-square" alt="M-Pesa Daraja" />
+      <br><br>
+      <sub><code>django_daraja</code> · <code>django-axes</code> · RBAC · SQLite / PostgreSQL</sub>
     </td>
-    <td width="33%" valign="top" align="center">
-      <h3><a href="https://github.com/Edujoew/University-Resource-Booking-System-URBS">📅 URBS</a></h3>
-      <p>University Resource &amp;<br>Equipment Booking</p>
+    <td width="50%" valign="top">
+      <h3>📅 <a href="https://github.com/Edujoew/University-Resource-Booking-System-URBS">URBS</a> &nbsp;<img src="https://img.shields.io/badge/●_ACTIVE-00C9FF?style=flat-square&labelColor=0D1117" alt="Active" /></h3>
+      <p><b>University Resource &amp; Equipment Booking System</b> with real-time availability checks and automated <b>M-Pesa STK Push</b> payments.</p>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
       <img src="https://img.shields.io/badge/Daraja_API-43B02A?style=flat-square" alt="Daraja API" />
+      <br><br>
+      <sub>Django + MariaDB · Safaricom Daraja API · live availability</sub>
     </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🌐 EddyForge Client Sites</h3>
-      <p>Fast, Clean,<br>No Build Step</p>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🌐 EddyForge Client Sites &nbsp;<img src="https://img.shields.io/badge/●_SHIPPING-FF4B6E?style=flat-square&labelColor=0D1117" alt="Shipping" /></h3>
+      <p>Fast, clean, no build step.</p>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
       <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
       <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -172,77 +145,37 @@ flowchart LR
     </td>
   </tr>
 </table>
-</div>
-
-<br>
-
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%F0%9F%93%8C+Pinned+Projects" alt="Pinned Projects" /></h2>
 
 <div align="center">
-<a href="https://github.com/Edujoew/green_eagles"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Edujoew&repo=green_eagles&theme=tokyonight&hide_border=true&show_owner=true" alt="PLASTOUT (green_eagles) repository card" /></a>
-<a href="https://github.com/Edujoew/University-Resource-Booking-System-URBS"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Edujoew&repo=University-Resource-Booking-System-URBS&theme=tokyonight&hide_border=true&show_owner=true" alt="University Resource Booking System (URBS) repository card" /></a>
+<a href="https://github.com/Edujoew/green_eagles"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Edujoew&repo=green_eagles&bg_color=0D1117&title_color=00C9FF&icon_color=FF4B6E&text_color=C9D1D9&hide_border=true&show_owner=true" alt="PLASTOUT repository card" /></a>
+<a href="https://github.com/Edujoew/University-Resource-Booking-System-URBS"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Edujoew&repo=University-Resource-Booking-System-URBS&bg_color=0D1117&title_color=00C9FF&icon_color=FF4B6E&text_color=C9D1D9&hide_border=true&show_owner=true" alt="URBS repository card" /></a>
 </div>
-
-<br>
-
-### 🦅 [PLASTOUT →](https://github.com/Edujoew/green_eagles)
-
-> [!NOTE]
-> **PLASTOUT** is a community-driven management platform and administrative system for the **Green Eagles Crew** and **Messengers of Peace**, designed to coordinate environmental initiatives, manage scouting patrols, and streamline membership operations.
-
-| Layer | Tools |
-|---|---|
-| ⚙️ **Backend** | Python, Django, `django_daraja` (M-Pesa API integration), `django-axes` |
-| 🎨 **Frontend** | HTML, CSS, JavaScript, Bootstrap 5, Bootstrap Icons |
-| 🗄️ **Database** | SQLite / PostgreSQL |
-| 🔐 **Security & Auth** | Django Authentication, Role-Based Access Control (RBAC) |
-
-<br>
-
-### 📅 [University Resource & Equipment Booking System →](https://github.com/Edujoew/University-Resource-Booking-System-URBS)
-
-- 🐍 **Django + MariaDB** backend
-- 💳 **Safaricom Daraja API** for automated **M-Pesa STK Push**
-- ⚡ **Real-time availability** checks
 
 <p align="center"><i>More projects always cooking. Check my pinned repos.</i> 🔥</p>
 
 <br>
 
-<!-- ───────────────────────────── STATS ───────────────────────────── -->
-
-<a name="stats"></a>
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=600&height=50&lines=%F0%9F%93%8A+GitHub+Command+Center" alt="GitHub Command Center" /></h2>
+## `$ htop --github`
 
 <div align="center">
 
-<a href="https://github.com/Edujoew"><img src="https://img.shields.io/github/followers/Edujoew?style=for-the-badge&logo=github&label=Followers&color=6C2BD9&labelColor=0D1117" alt="GitHub followers" /></a>
-<a href="https://github.com/Edujoew/green_eagles"><img src="https://img.shields.io/github/stars/Edujoew/green_eagles?style=for-the-badge&logo=github&label=PLASTOUT%20Stars&color=FFB300&labelColor=0D1117" alt="PLASTOUT stars" /></a>
-<a href="https://github.com/Edujoew/green_eagles"><img src="https://img.shields.io/github/last-commit/Edujoew/green_eagles?style=for-the-badge&logo=git&logoColor=white&label=Last%20Commit&color=00A651&labelColor=0D1117" alt="Last commit on PLASTOUT" /></a>
-<a href="https://github.com/Edujoew/green_eagles"><img src="https://img.shields.io/github/languages/top/Edujoew/green_eagles?style=for-the-badge&label=Top%20Language&color=00D9FF&labelColor=0D1117" alt="Top language on PLASTOUT" /></a>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Edujoew&show_icons=true&bg_color=0D1117&title_color=00C9FF&icon_color=FF4B6E&text_color=C9D1D9&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=460" height="195" alt="Edujoew GitHub stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Edujoew&layout=donut&bg_color=0D1117&title_color=00C9FF&text_color=C9D1D9&hide_border=true&langs_count=8&card_width=340" height="195" alt="Edujoew top languages" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/📈_Overview-6C2BD9?style=for-the-badge&labelColor=0D1117" alt="Overview" />
-
-<br>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Edujoew&show_icons=true&theme=tokyonight&title_color=00D9FF&icon_color=FF4B6E&text_color=C9D1D9&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=460" height="195" alt="Edujoew GitHub stats" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Edujoew&layout=donut&theme=tokyonight&title_color=00D9FF&text_color=C9D1D9&hide_border=true&langs_count=8&card_width=340" height="195" alt="Edujoew top languages" />
+<!-- STREAK: change the number after &t= (t=2, t=3...) to force a fresh image, GitHub caches images -->
+<img src="https://streak-stats.demolab.com/?user=Edujoew&background=0D1117&hide_border=true&ring=00C9FF&fire=FF4B6E&currStreakLabel=00C9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=6C2BD9&t=1" alt="Edujoew GitHub streak" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🔥_Consistency-FF4B6E?style=for-the-badge&labelColor=0D1117" alt="Consistency" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edujoew&bg_color=0D1117&color=00C9FF&line=6C2BD9&point=FF4B6E&area=true&area_color=6C2BD9&hide_border=true&custom_title=commit%20activity" width="100%" alt="Edujoew commit activity graph" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=Edujoew&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF4B6E&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=6C2BD9" alt="Edujoew GitHub streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=Edujoew&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="Edujoew GitHub trophies" />
 
 <br><br>
-
-<img src="https://img.shields.io/badge/🐍_Contribution_Graph-00A651?style=for-the-badge&labelColor=0D1117" alt="Contribution graph" />
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edujoew/Edujoew/output/github-snake-dark.svg" />
@@ -252,61 +185,27 @@ flowchart LR
 
 <sub>A Python snake eating my commits. Rebuilt from my contribution graph every 12 hours.</sub>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/🧬_Language_DNA-00A651?style=for-the-badge&labelColor=0D1117" alt="Language DNA" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Edujoew&theme=tokyonight" width="32%" alt="Repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Edujoew&theme=tokyonight" width="32%" alt="Most committed language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Edujoew&theme=tokyonight" width="32%" alt="Stats summary" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/⏰_Profile_Details-6C2BD9?style=for-the-badge&labelColor=0D1117" alt="Profile details" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Edujoew&theme=tokyonight" width="49%" alt="Profile details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Edujoew&theme=tokyonight&utcOffset=3" width="49%" alt="Most productive time of day (UTC+3)" />
-
 </div>
 
 <br>
 
-<!-- ───────────────────────────── CONTACT ───────────────────────────── -->
-
-<a name="contact"></a>
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&color=8B5CF6&center=true&vCenter=true&repeat=false&width=560&height=50&lines=%F0%9F%93%B2+Let%27s+Talk" alt="Let's Talk" /></h2>
+## `$ ./contact.sh`
 
 > [!TIP]
 > **Need a fast, clean site or a real M-Pesa integration? Let's build it.**
 
 <div align="center">
 
-<a href="https://linkedin.com/in/johnny-edwards-7b0795393/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://wa.me/254100554588"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="mailto:johnteedushiks247@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/johnny-edwards-7b0795393/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-</div>
+<br><br>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=6C2BD9&center=true&vCenter=true&width=600&height=40&lines=%24+exit+0;Thanks+for+stopping+by+%F0%9F%91%8B;Build+Your+Digital+Legacy" alt="Thanks for stopping by. Build Your Digital Legacy." />
 
-<!-- ───────────────────────────── FOOTER ───────────────────────────── -->
+<sub><a href="#top">↑ back to top</a></sub>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Build+Your+Digital+Legacy" alt="Thanks for stopping by. Build Your Digital Legacy." />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Edujoew&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-
-<br>
-
-<sub><a href="#top">Back to top</a></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=140&color=0:00C9FF,50:6C2BD9,100:FF4B6E&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=slice&height=120&color=0:FF4B6E,40:00C9FF,70:6C2BD9,100:0D1117&section=footer&reversal=true" width="100%" alt="" />
 
 </div>
