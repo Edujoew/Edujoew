@@ -159,9 +159,9 @@ University Resource & Equipment Booking System with real-time availability check
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edujoew/Edujoew/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edujoew/Edujoew/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Edujoew/Edujoew/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edujoew/Edujoew/output/snake-neon.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edujoew/Edujoew/output/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Edujoew/Edujoew/output/snake-neon.svg" width="100%" />
 </picture>
 
 </div>
