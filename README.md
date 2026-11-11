@@ -1,211 +1,226 @@
-<a name="top"></a>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=220&color=0:0D1117,35:6C2BD9,70:00C9FF,100:FF4B6E&text=%3CEddyForge%2F%3E&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&desc=Build%20Your%20Digital%20Legacy&descSize=20&descAlign=50&descAlignY=68&section=header" width="100%" alt="EddyForge. Build Your Digital Legacy." />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:6C2BD9,100:00C9FF&height=260&section=header&text=DEV%20EDDY&fontSize=90&fontColor=ffffff&fontAlignY=38&stroke=00C9FF&strokeWidth=2&animation=fadeIn&desc=Edwards%20John%20%E2%80%A2%20Founder%20%40%20EddyForge&descSize=22&descAlignY=62&descColor=FF4B6E" width="100%" alt="Dev Eddy banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00C9FF&center=true&vCenter=true&width=780&height=45&lines=%24+whoami+%E2%86%92+Edwards+John+%E2%80%A2+Dev+Eddy;%24+role+%E2%86%92+Founder+%40+EddyForge;%24+stack+%E2%86%92+Python+%2B+Django+%2B+JS;%24+payments+%E2%86%92+M-Pesa+%2F+Daraja+API;%24+ai+%E2%86%92+Claude-powered+features;%24+status+%E2%86%92+open+to+client+work" alt="Edwards John, Dev Eddy. Founder at EddyForge. Python, Django and JavaScript. M-Pesa Daraja API. Claude-powered features. Open to client work." />
+<a href="https://github.com/Edujoew">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=00C9FF&center=true&vCenter=true&width=760&height=60&lines=Build+Your+Digital+Legacy+%E2%9C%A6;Django+%2B+Python+backends+that+actually+ship;M-Pesa+STK+Push+integrations+that+get+paid;Claude-powered+AI+features+baked+in;Currently+online+%E2%80%A2+Open+to+client+work+%F0%9F%9F%A2" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00C9FF?style=flat-square&labelColor=0D1117&logo=statuspage&logoColor=00C9FF" alt="Status online" />
-<img src="https://img.shields.io/badge/LOCATION-KENYA_🇰🇪-6C2BD9?style=flat-square&labelColor=0D1117" alt="Based in Kenya" />
-<img src="https://img.shields.io/badge/HANDLE-@Edujoew-FF4B6E?style=flat-square&labelColor=0D1117&logo=github" alt="GitHub handle Edujoew" />
-<a href="https://wa.me/254100554588"><img src="https://img.shields.io/badge/HIRE_ME-WhatsApp-25D366?style=flat-square&labelColor=0D1117&logo=whatsapp&logoColor=white" alt="Hire me on WhatsApp" /></a>
-<img src="https://komarev.com/ghpvc/?username=Edujoew&color=6C2BD9&style=flat-square&label=VIEWS&labelColor=0D1117" alt="Profile views" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00C9FF?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=00C9FF" />
+<img src="https://img.shields.io/badge/OPEN%20TO-CLIENT%20WORK-FF4B6E?style=for-the-badge&labelColor=0D1117&logo=upwork&logoColor=FF4B6E" />
+<img src="https://img.shields.io/badge/BASED%20IN-KENYA%20%F0%9F%87%B0%F0%9F%87%AA-6C2BD9?style=for-the-badge&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=Edujoew&label=VISITORS&color=6C2BD9&style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
-<br>
-
-## `$ ./boot.sh --profile edujoew`
+<br/>
 
 ```bash
-[  OK  ] Loading identity .............. Edwards John (Dev Eddy)
-[  OK  ] Mounting brand ................ EddyForge → "Build Your Digital Legacy"
-[  OK  ] Starting backend .............. Python · Django · PostgreSQL
-[  OK  ] Starting frontend ............. HTML · CSS · JavaScript · Bootstrap · Tailwind
-[  OK  ] Linking payments .............. M-Pesa STK Push · Safaricom Daraja API
-[  OK  ] Linking AI .................... Claude-powered chat & features
-[  OK  ] Deploy target ................. GitHub → Vercel
-[ WAIT ] Compiling new skills .......... React · Java · PHP · Tailwind CSS
-[  OK  ] Availability .................. open to client work
+┌──────────────────────────────────────────────────────────────┐
+│ ● ● ●                 root@eddyforge: ~                      │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  $ whoami                                                    │
+│  > Edwards John a.k.a. Dev Eddy                              │
+│                                                              │
+│  $ cat role.txt                                              │
+│  > Founder @ EddyForge — "Build Your Digital Legacy"         │
+│                                                              │
+│  $ echo $LOCATION                                            │
+│  > Kenya 🇰🇪                                                  │
+│                                                              │
+│  $ ./status.sh                                               │
+│  > [ONLINE] accepting new client projects...                 │
+│                                                              │
+│  $ _                                                         │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:6C2BD9,100:FF4B6E&height=3&section=header" width="100%"/>
 
-## `$ cat about.json`
+## `> ./tech_stack --load`
+
+<div align="center">
+
+**⚡ Core Arsenal**
+
+<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,html,css,js,bootstrap,tailwind,git,github,vercel&theme=dark&perline=12" alt="tech stack" />
+
+<br/><br/>
+
+**🧪 Currently Learning (loading...)**
+
+<img src="https://skillicons.dev/icons?i=react,java,php,tailwind&theme=dark" alt="learning" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-in%20progress-00C9FF?style=flat-square&logo=react&logoColor=00C9FF&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Java-in%20progress-FF4B6E?style=flat-square&logo=openjdk&logoColor=FF4B6E&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PHP-in%20progress-6C2BD9?style=flat-square&logo=php&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Tailwind-leveling%20up-00C9FF?style=flat-square&logo=tailwindcss&logoColor=00C9FF&labelColor=0D1117" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:6C2BD9,100:FF4B6E&height=3&section=header" width="100%"/>
+
+## `> cat integrations.json`
 
 ```json
 {
-  "handle": "@Edujoew",
-  "role": "Founder @ EddyForge",
-  "approach": "Self-contained web apps, zero build steps",
-  "stack": ["Python", "Django", "HTML", "CSS", "JavaScript"],
-  "payments": "M-Pesa & Safaricom Daraja API",
-  "ai": "Claude-powered features",
-  "ships_to": "GitHub → Vercel",
-  "learning": ["React", "Java", "PHP", "JavaScript", "Tailwind CSS"],
-  "mission": "Build Your Digital Legacy"
+  "payments": {
+    "provider": "Safaricom Daraja API",
+    "flow": "M-Pesa STK Push",
+    "status": "production-ready 💸"
+  },
+  "ai": {
+    "engine": "Claude",
+    "usage": "AI-powered features inside real products 🧠"
+  },
+  "backend": ["Python", "Django", "PostgreSQL", "SQLite", "MariaDB"],
+  "frontend": ["HTML", "CSS", "JavaScript", "Bootstrap 5", "Tailwind CSS"],
+  "deploy": ["Git", "GitHub", "Vercel"]
 }
 ```
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:6C2BD9,100:FF4B6E&height=3&section=header" width="100%"/>
 
-## `$ ls services/`
-
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <img src="https://img.shields.io/badge/01-FAST_SITES-00C9FF?style=flat-square&labelColor=0D1117" alt="01 Fast sites" /><br><br>
-      Client sites that load fast and never break.
-    </td>
-    <td width="25%" valign="top">
-      <img src="https://img.shields.io/badge/02-M--PESA-00A651?style=flat-square&labelColor=0D1117" alt="02 M-Pesa" /><br><br>
-      Real <b>M-Pesa</b> payments for Kenyan users. 🇰🇪
-    </td>
-    <td width="25%" valign="top">
-      <img src="https://img.shields.io/badge/03-CLAUDE_AI-FF4B6E?style=flat-square&labelColor=0D1117" alt="03 Claude AI" /><br><br>
-      <b>Claude-powered chat</b> dropped into plain HTML sites.
-    </td>
-    <td width="25%" valign="top">
-      <img src="https://img.shields.io/badge/04-DEPLOY-6C2BD9?style=flat-square&labelColor=0D1117" alt="04 Deploy" /><br><br>
-      Straight from <b>GitHub to Vercel</b>.
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## `$ pipeline --show`
-
-```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#0D1117", "primaryTextColor": "#E6EDF3", "primaryBorderColor": "#00C9FF", "lineColor": "#6C2BD9", "fontFamily": "monospace"}}}%%
-flowchart LR
-    A(["💡 Idea"]) --> B["💻 Build<br/>Django · HTML · JS"]
-    B --> C["🐙 GitHub"]
-    C --> D["▲ Vercel"]
-    D --> E(["🚀 Live"])
-    B -.-> F["💳 M-Pesa<br/>Daraja API"]
-    B -.-> G["🤖 Claude<br/>AI features"]
-```
-
-<br>
-
-## `$ npm ls --stack` &nbsp;<sub>(well, `pip freeze`)</sub>
+## `> git log --pinned`
 
 <div align="center">
 
-| | |
-|:--|:--|
-| <img src="https://img.shields.io/badge/BACKEND-6C2BD9?style=flat-square&labelColor=0D1117" alt="Backend" /> | <img src="https://skillicons.dev/icons?i=py,django,sqlite,postgres,mysql,mariadb&theme=dark" alt="Python, Django, SQLite, PostgreSQL, MySQL, MariaDB" /> |
-| <img src="https://img.shields.io/badge/FRONTEND-00C9FF?style=flat-square&labelColor=0D1117" alt="Frontend" /> | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&theme=dark" alt="HTML, CSS, JavaScript, Bootstrap, Tailwind CSS" /> |
-| <img src="https://img.shields.io/badge/SHIP-FF4B6E?style=flat-square&labelColor=0D1117" alt="Ship" /> | <img src="https://skillicons.dev/icons?i=github,git,vercel&theme=dark" alt="GitHub, Git, Vercel" /> |
-| <img src="https://img.shields.io/badge/LEARNING-2EA043?style=flat-square&labelColor=0D1117" alt="Learning" /> | <img src="https://skillicons.dev/icons?i=react,java,php,js,tailwind&theme=dark" alt="React, Java, PHP, JavaScript, Tailwind CSS" /> |
-
-<img src="https://img.shields.io/badge/M--Pesa-STK_Push-00A651?style=for-the-badge&labelColor=0D1117" alt="M-Pesa STK Push" />
-<img src="https://img.shields.io/badge/Safaricom-Daraja_API-43B02A?style=for-the-badge&labelColor=0D1117" alt="Safaricom Daraja API" />
-<img src="https://img.shields.io/badge/Claude-AI_Features-D97757?style=for-the-badge&labelColor=0D1117&logo=anthropic&logoColor=white" alt="Claude AI features" />
+<a href="https://github.com/Edujoew/green_eagles">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edujoew&repo=green_eagles&theme=transparent&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&icon_color=FF4B6E&border_color=6C2BD9&show_owner=true" alt="PLASTOUT" />
+</a>
+<a href="https://github.com/Edujoew/University-Resource-Booking-System-URBS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Edujoew&repo=University-Resource-Booking-System-URBS&theme=transparent&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&icon_color=FF4B6E&border_color=6C2BD9&show_owner=true" alt="URBS" />
+</a>
 
 </div>
 
-<br>
-
-## `$ git log --projects`
-
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🦅 <a href="https://github.com/Edujoew/green_eagles">PLASTOUT</a> &nbsp;<img src="https://img.shields.io/badge/●_ACTIVE-00C9FF?style=flat-square&labelColor=0D1117" alt="Active" /></h3>
-      <p>Community-driven management platform and admin system for the <b>Green Eagles Crew</b> and <b>Messengers of Peace</b>. Coordinates environmental initiatives, scouting patrols and membership operations.</p>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
-      <img src="https://img.shields.io/badge/M--Pesa-Daraja-00A651?style=flat-square" alt="M-Pesa Daraja" />
-      <br><br>
-      <sub><code>django_daraja</code> · <code>django-axes</code> · RBAC · SQLite / PostgreSQL</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📅 <a href="https://github.com/Edujoew/University-Resource-Booking-System-URBS">URBS</a> &nbsp;<img src="https://img.shields.io/badge/●_ACTIVE-00C9FF?style=flat-square&labelColor=0D1117" alt="Active" /></h3>
-      <p><b>University Resource &amp; Equipment Booking System</b> with real-time availability checks and automated <b>M-Pesa STK Push</b> payments.</p>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
-      <img src="https://img.shields.io/badge/Daraja_API-43B02A?style=flat-square" alt="Daraja API" />
-      <br><br>
-      <sub>Django + MariaDB · Safaricom Daraja API · live availability</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🌐 EddyForge Client Sites &nbsp;<img src="https://img.shields.io/badge/●_SHIPPING-FF4B6E?style=flat-square&labelColor=0D1117" alt="Shipping" /></h3>
-      <p>Fast, clean, no build step.</p>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-      <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦅 PLASTOUT — Green Eagles
+Community-driven management platform & admin system for environmental initiatives and scouting patrols.
+
+![Django](https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=00C9FF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-0D1117?style=flat-square&logo=bootstrap&logoColor=6C2BD9)
+![M-Pesa](https://img.shields.io/badge/M--Pesa_Daraja-0D1117?style=flat-square&logo=safaricom&logoColor=FF4B6E)
+![RBAC](https://img.shields.io/badge/RBAC-0D1117?style=flat-square&logo=letsencrypt&logoColor=00C9FF)
+
+[**▶ View repository**](https://github.com/Edujoew/green_eagles)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 URBS — Resource & Equipment Booking
+University Resource & Equipment Booking System with real-time availability checks and automated M-Pesa STK Push payments.
+
+![Django](https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=00C9FF)
+![MariaDB](https://img.shields.io/badge/MariaDB-0D1117?style=flat-square&logo=mariadb&logoColor=6C2BD9)
+![Daraja](https://img.shields.io/badge/Daraja_API-0D1117?style=flat-square&logo=safaricom&logoColor=FF4B6E)
+
+[**▶ View repository**](https://github.com/Edujoew/University-Resource-Booking-System-URBS)
+
+</td>
+</tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:6C2BD9,100:FF4B6E&height=3&section=header" width="100%"/>
+
+## `> ./stats --live`
+
 <div align="center">
-<a href="https://github.com/Edujoew/green_eagles"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Edujoew&repo=green_eagles&bg_color=0D1117&title_color=00C9FF&icon_color=FF4B6E&text_color=C9D1D9&hide_border=true&show_owner=true" alt="PLASTOUT repository card" /></a>
-<a href="https://github.com/Edujoew/University-Resource-Booking-System-URBS"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Edujoew&repo=University-Resource-Booking-System-URBS&bg_color=0D1117&title_color=00C9FF&icon_color=FF4B6E&text_color=C9D1D9&hide_border=true&show_owner=true" alt="URBS repository card" /></a>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Edujoew&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00C9FF&icon_color=FF4B6E&text_color=c9d1d9&border_color=6C2BD9&ring_color=6C2BD9&count_private=true&include_all_commits=true&custom_title=Dev%20Eddy%27s%20GitHub%20Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edujoew&layout=compact&hide_border=false&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9&border_color=6C2BD9&langs_count=8&custom_title=Most%20Used%20Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Edujoew&theme=transparent&background=0D1117&ring=6C2BD9&fire=FF4B6E&currStreakLabel=00C9FF&sideLabels=00C9FF&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=6C2BD9&border=6C2BD9&hide_border=false" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Edujoew&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edujoew&bg_color=0D1117&color=00C9FF&line=6C2BD9&point=FF4B6E&area=true&area_color=6C2BD9&hide_border=true&title_color=00C9FF&radius=12" width="100%" alt="activity graph" />
+
 </div>
 
-<p align="center"><i>More projects always cooking. Check my pinned repos.</i> 🔥</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:6C2BD9,100:FF4B6E&height=3&section=header" width="100%"/>
 
-<br>
-
-## `$ htop --github`
+## `> ./snake --eat-contributions 🐍`
 
 <div align="center">
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Edujoew&show_icons=true&bg_color=0D1117&title_color=00C9FF&icon_color=FF4B6E&text_color=C9D1D9&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=460" height="195" alt="Edujoew GitHub stats" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Edujoew&layout=donut&bg_color=0D1117&title_color=00C9FF&text_color=C9D1D9&hide_border=true&langs_count=8&card_width=340" height="195" alt="Edujoew top languages" />
-
-<br><br>
-
-<!-- STREAK: change the number after &t= (t=2, t=3...) to force a fresh image, GitHub caches images -->
-<img src="https://streak-stats.demolab.com/?user=Edujoew&background=0D1117&hide_border=true&ring=00C9FF&fire=FF4B6E&currStreakLabel=00C9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=6C2BD9&t=1" alt="Edujoew GitHub streak" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edujoew&bg_color=0D1117&color=00C9FF&line=6C2BD9&point=FF4B6E&area=true&area_color=6C2BD9&hide_border=true&custom_title=commit%20activity" width="100%" alt="Edujoew commit activity graph" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Edujoew&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" alt="Edujoew GitHub trophies" />
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edujoew/Edujoew/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edujoew/Edujoew/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Edujoew/Edujoew/output/github-snake-dark.svg" width="100%" alt="Snake eating through my GitHub contribution graph" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Edujoew/Edujoew/output/github-snake-dark.svg" width="100%" />
 </picture>
-
-<sub>A Python snake eating my commits. Rebuilt from my contribution graph every 12 hours.</sub>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:6C2BD9,100:FF4B6E&height=3&section=header" width="100%"/>
 
-## `$ ./contact.sh`
-
-> [!TIP]
-> **Need a fast, clean site or a real M-Pesa integration? Let's build it.**
+## `> ./contact --open-channel`
 
 <div align="center">
 
-<a href="https://wa.me/254100554588"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="mailto:johnteedushiks247@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/johnny-edwards-7b0795393/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://wa.me/254100554588"><img src="https://img.shields.io/badge/WhatsApp-Let's%20Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117" /></a>
+<a href="mailto:johnteedushiks247@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-FF4B6E?style=for-the-badge&logo=gmail&logoColor=FF4B6E&labelColor=0D1117" /></a>
+<a href="https://linkedin.com/in/johnny-edwards-7b0795393/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00C9FF?style=for-the-badge&logo=linkedin&logoColor=00C9FF&labelColor=0D1117" /></a>
+<a href="https://github.com/Edujoew"><img src="https://img.shields.io/badge/GitHub-Follow-6C2BD9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" /></a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=6C2BD9&center=true&vCenter=true&width=600&height=40&lines=%24+exit+0;Thanks+for+stopping+by+%F0%9F%91%8B;Build+Your+Digital+Legacy" alt="Thanks for stopping by. Build Your Digital Legacy." />
+<img src="https://readme-jokes.vercel.app/api?theme=radical&bgColor=0D1117&textColor=00C9FF&borderColor=6C2BD9&quoteColor=FF4B6E" alt="dev joke" />
 
-<sub><a href="#top">↑ back to top</a></sub>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&height=120&color=0:FF4B6E,40:00C9FF,70:6C2BD9,100:0D1117&section=footer&reversal=true" width="100%" alt="" />
+<a href="https://github.com/Edujoew">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=FF4B6E&center=true&vCenter=true&width=620&height=40&lines=Got+an+idea%3F+Let%27s+ship+it.;EddyForge+%E2%80%94+Build+Your+Digital+Legacy.;exit+0+%E2%9C%A6" alt="footer typing" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6C2BD9,100:00C9FF&height=140&section=footer&animation=twinkling" width="100%" alt="footer wave"/>
 
 </div>
+
+<!--
+SNAKE SETUP (free, one-time):
+1. Create a public repo named exactly "Edujoew" (this README lives there as README.md).
+2. Add the file .github/workflows/snake.yml with:
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+3. Go to Actions tab, run "Generate Snake" once. The "output" branch appears and the snake goes live.
+-->
